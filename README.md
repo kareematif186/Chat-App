@@ -12,7 +12,7 @@ The objective of this tutorial is to learn how to incorporate Firebase into our 
 
 We’re going to build a modern messaging app where users can sign up and log in to chat.
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+
 
 
 ![12](https://user-images.githubusercontent.com/88941146/173452493-daabfa5b-b414-408e-9280-6bc5385a4443.jpeg)
